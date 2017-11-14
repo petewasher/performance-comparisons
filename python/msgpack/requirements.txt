@@ -1,0 +1,2 @@
+msgpack-python==0.4.8
+u-msgpack-python==2.4.1
